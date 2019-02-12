@@ -1,4 +1,4 @@
-# GF-Ana
+# University of Lorraine - The Chair of Societal Transition & Circular Economy
 
 
 
