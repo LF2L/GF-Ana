@@ -1,4 +1,12 @@
-# University of Lorraine - The Chair of Societal Transition & Circular Economy
+# University of Lorraine (FR) -  University of Freiburg (GE)
+
+<p align="center">
+  <img src="https://github.com/LF2L/GF-Ana/blob/master/Documents/Figures/Logos/UL.png" height="72px">
+  <img src="https://github.com/LF2L/GF-Ana/blob/master/Documents/Figures/Logos/Univ-Freiburg.png" height="72px"> &emsp;
+  <img src="https://github.com/LF2L/GF-Ana/blob/master/Documents/Figures/Logos/LGRP.png" height="72px">
+  <img src="https://github.com/LF2L/GF-Ana/blob/master/Documents/Figures/Logos/ERPI.png" height="72px">
+</p>
+
 
 
 
