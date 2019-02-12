@@ -36,5 +36,10 @@ It holds the picture files (`.jpg .pgn`) that files that can be reused in the wi
 
 ## Wiki
 Your wiki page is : [Wiki of the stage](https://github.com/LF2L/GF-Ana/wiki)
-- Bibiolography
+- [Bibiolography](https://github.com/LF2L/GF-Ana/wiki/Bibliography)
+
+
+
+
+
 
