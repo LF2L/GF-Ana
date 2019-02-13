@@ -10,7 +10,7 @@
 
 
 
-Project Stage : [Ana Maria Barrera Bogoya](mailto:anamaria.barrera-bogoya8@etu.univ-lorraine.fr) 
+Project Stage : [Anamaria Barrera Bogoya](mailto:anamaria.barrera-bogoya8@etu.univ-lorraine.fr) 
 
 ### Instructors
 - [Sina Leipold](https://www.transition.uni-freiburg.de/team-1/cv-sina-leipold) (JProf. Dr. - Uni Freiburg - GE)	
